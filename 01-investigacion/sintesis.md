@@ -29,7 +29,9 @@ Estas prácticas priorizan el bienestar del estudiante y fomentan una relación 
 Marcá cada uno con **[VERIFICADO]**si lo contrastaste con la fuente original o **[REVISAR]** si no pudiste verificarlo.
 
 1.[VERIFICADO] La Ley N.º 26.206 establece que los estudiantes deben asistir a clase “regularmente y con puntualidad”, y que las familias deben asegurar la concurrencia escolar; además, consagra la obligatoriedad de la Educación Secundaria.
+
 2.[VERIFICADO] La Resolución N.º 076/22 del Ministerio de Educación, Ciencia y Tecnología de Misiones aprobó el Régimen Académico Marco para el Nivel de Educación Secundaria, y la Resolución N.º 365/23 del Consejo General de Educación lo adhirió para su aplicación provincial.
+
 3.[REVISAR] El RAM establece el cómputo de asistencia institucional y por espacio curricular, asigna al preceptor el control inicial de la asistencia y prevé la intervención del equipo directivo ante inasistencias reiteradas; el límite de “20 inasistencias institucionales” requiere contrastarse con el texto oficial vigente de la Resolución 076/22, ya que la versión consultada corresponde a un borrador y a una transcripción de terceros.
 
 ## Ideas que voy a usar en el plan de acción
