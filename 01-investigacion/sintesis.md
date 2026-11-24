@@ -28,8 +28,21 @@ Estas prácticas priorizan el bienestar del estudiante y fomentan una relación 
 ## Hallazgos clave
 Marcá cada uno con **[VERIFICADO]** si lo contrastaste con la fuente original o **[REVISAR]** si no pudiste verificarlo.
 
-1.
-2.
-3.
+1.[VERIFICADO] La Ley N.º 26.206 establece que los estudiantes deben asistir a clase “regularmente y con puntualidad”, y que las familias deben asegurar la concurrencia escolar; además, consagra la obligatoriedad de la Educación Secundaria.
+2.[VERIFICADO] La Resolución N.º 076/22 del Ministerio de Educación, Ciencia y Tecnología de Misiones aprobó el Régimen Académico Marco para el Nivel de Educación Secundaria, y la Resolución N.º 365/23 del Consejo General de Educación lo adhirió para su aplicación provincial.
+3.[REVISAR] El RAM establece el cómputo de asistencia institucional y por espacio curricular, asigna al preceptor el control inicial de la asistencia y prevé la intervención del equipo directivo ante inasistencias reiteradas; el límite de “20 inasistencias institucionales” requiere contrastarse con el texto oficial vigente de la Resolución 076/22, ya que la versión consultada corresponde a un borrador y a una transcripción de terceros.
 
 ## Ideas que voy a usar en el plan de acción
+1. Registro y alerta temprana
+Elaborar una planilla semanal de asistencia por curso, con colores o etiquetas para identificar ausencias reiteradas, tardanzas frecuentes y riesgo de abandono.
+Definir un umbral de alerta institucional; por ejemplo, tres ausencias consecutivas o cinco ausencias acumuladas en un mes.
+Que el/la preceptor/a registre cada caso, realice una primera entrevista breve con el estudiante y informe al equipo directivo.
+Revisar mensualmente los casos en una reunión de seguimiento con dirección, preceptores, docentes y gabinete, cuando esté disponible.
+2. Comunicación respetuosa con familias
+Contactar a la familia ante las primeras ausencias preocupantes, no recién cuando la situación ya es crítica.
+Usar mensajes breves, frecuentes y positivos: comenzar por aspectos favorables del estudiante y luego plantear la dificultad concreta.
+argentina.gob
+Ofrecer una entrevista presencial o virtual, con horarios flexibles cuando sea posible.
+Registrar fecha, motivo de contacto, acuerdos alcanzados y próximos pasos.
+Proteger la privacidad: no compartir datos personales, salud, situación familiar o antecedentes en grupos de WhatsApp u otros canales abiertos, en línea con la Ley 25.326.
+
