@@ -21,17 +21,23 @@ El documento está redactado en un estilo breve y académico, adecuado para entr
 - **Qué acepté / qué corregí y por qué:**
 
 ## Prompt 2
-- **Herramienta:**
-- **Etapa:**
-- **Prompt:**
-- **Qué respondió (resumen):**
+- **Herramienta:** noteboock lm
+- **Etapa:**01
+- **Prompt:**¿Qué estudiantes necesitan atención, qué acciones corresponden y cómo se lo comunicamos a las familias respetando la privacidad?
+Los estudiantes que necesitan atención son aquellos que presentan ausencias reiteradas, llegadas tardías frecuentes o señales de desvinculación escolar que puedan poner en riesgo su permanencia y continuidad en la educación secundaria.
+
 - **Qué acepté / qué corregí y por qué:**
 
 ## Prompt 3
-- **Herramienta:**
-- **Etapa:**
-- **Prompt:**
-- **Qué respondió (resumen):**
+- **Herramienta:** Gamma
+- **Etapa:**04
+- **Prompt:**Crea una presentación de 6 láminas para una reunión de familias del curso 2° B, con tono cálido, respetuoso y claro. Solo datos generales del curso, sin nombres ni datos de alumnos en particular.Lámina 1 - Portada:
+Título: Asistencia y Puntualidad - 2° B
+Subtítulo: Reunión de familias - Juntos acompañamos la trayectoria escolarLámina 2 - ¿Cómo viene el curso?
+La asistencia promedio del curso es del 86,61%. La mayoría de las familias acompaña y justifica las inasistencias. Queremos seguir mejorando juntos.Lámina 3 - Asistencia en números:Asistencia promedio: 86,61%30 inasistencias justificadas en el períodoLa mayoría del curso se encuentra Sin AlertaUn grupo pequeño está en Seguimiento o Intervención, y los estamos acompañandoLámina 4 - ¿Qué nos dicen los datos?
+La asistencia regular ayuda a aprender mejor y a no perder contenidos. Las llegadas tarde también afectan el inicio de la clase. Cuando un estudiante falta mucho, le cuesta más seguir el ritmo.Lámina 5 - Plan de acción de la escuela:Contactar a las familias de prioridad Alta dentro de las próximas 48 horasAcompañar a las familias de prioridad Media con seguimiento semanalReforzar la puntualidad y la asistencia con docentes y preceptora, con revisión en 2 semanasLámina 6 - ¿Cómo pueden ayudar las familias?Avisar a la escuela cuando su hijo/a no pueda asistirFomentar llegar a horarioMantener el contacto con la preceptora
+Cierre: Gracias por acompañar. Entre escuela y familia, logramos que todos aprendan mejor.
+- **Qué respondió (resumen):**https://gamma.app/docs/t12uujtydi9rn1o?ag
 - **Qué acepté / qué corregí y por qué:**
 
 ## Reflexión final (3 líneas)
