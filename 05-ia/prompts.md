@@ -42,3 +42,5 @@ Cierre: Gracias por acompañar. Entre escuela y familia, logramos que todos apre
 
 ## Reflexión final (3 líneas)
 Un dato o afirmación de la IA que tuve que verificar o corregir, y cómo lo hice:
+La IA indicó que el RAM de Misiones fija un máximo de 20 inasistencias institucionales. Lo marqué como [REVISAR] porque solo lo encontré en un borrador y en fuentes no oficiales. Verifiqué la Resolución 076/22 y la Resolución 365/23 en el sitio del CGE para confirmar el dato antes de incluirlo como verificado.
+
